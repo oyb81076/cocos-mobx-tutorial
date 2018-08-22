@@ -1,5 +1,6 @@
-# 用mobx做状态管理的 小星星游戏的demo
-mobx https://cn.mobx.js.org/
+# 用mobx做状态管理的 小星星游戏 Star Catcher 的 demo
+mobx 库介绍 https://cn.mobx.js.org/
+项目地址 https://github.com/oyb81076/cocos-mobx-tutorial
 
 ## 使用状态后 Game.ts
 ```
@@ -136,7 +137,7 @@ export default class Game extends cc.Component {
 
 ```
 
-## 原版 Game.js
+## 原版 https://github.com/cocos-creator/tutorial-first-game/blob/master/polished_project_ts/assets/scripts/Game.ts
 ```
 import Player from "./Player";
 import ScoreFX from "./ScoreFX";
