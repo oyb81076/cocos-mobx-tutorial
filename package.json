@@ -1,0 +1,9 @@
+{
+  "name": "polished_project_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^5.0.4"
+  }
+}
