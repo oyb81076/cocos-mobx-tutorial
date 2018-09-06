@@ -1,7 +1,7 @@
 import { autorun, IReactionDisposer } from 'mobx'
 import * as mobx from 'mobx'
 if (cc.sys.isBrowser) { (window as any).mobx = mobx }
-mobx.configure({ enforceActions: true })
+mobx.configure({ enforceActions: "always" })
 
 export const observer = <T extends { new(...args: any[]): cc.Component }>(constructor: T) => {
     return class extends constructor {
