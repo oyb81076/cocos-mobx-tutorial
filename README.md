@@ -3,7 +3,7 @@ mobx 库介绍 https://cn.mobx.js.org/
 项目地址 https://github.com/oyb81076/cocos-mobx-tutorial
 
 ## 使用状态后 Game.ts
-```
+```typescript
 import ScoreFX from "./ScoreFX";
 import { render, observer, reactor, react } from "./observer";
 import { store } from "./store";
@@ -138,7 +138,7 @@ export default class Game extends cc.Component {
 ```
 
 ## 原版 https://github.com/cocos-creator/tutorial-first-game/blob/master/polished_project_ts/assets/scripts/Game.ts
-```
+```typescript
 import Player from "./Player";
 import ScoreFX from "./ScoreFX";
 import Star from "./Star";
