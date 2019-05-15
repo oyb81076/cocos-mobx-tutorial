@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
-mobx@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/mobx/-/mobx-5.1.0.tgz#ae772ca8eb0c1dd93341ffce375f44a80050014d"
+mobx@^5.9.4:
+  version "5.9.4"
+  resolved "https://registry.npm.taobao.org/mobx/download/mobx-5.9.4.tgz#1dee92aba33f67b7baeeb679e3bd376a12e55812"
+  integrity sha1-He6Sq6M/Z7e67rZ54703ahLlWBI=

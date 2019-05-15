@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "mobx": "^5.1.0"
+    "mobx": "^5.9.4"
   }
 }

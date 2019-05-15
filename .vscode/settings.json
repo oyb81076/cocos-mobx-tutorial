@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/*.meta": true,
+    "**/*.fire": true,
+    "**/*.prefab": true,
+    "**/library": true,
+    "**/local": true,
+    "**/packages": true,
+    "**/settings": true,
+    "**/temp": true,
+  }
+}
