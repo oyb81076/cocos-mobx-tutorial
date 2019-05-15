@@ -2,6 +2,9 @@
 mobx 库介绍 https://cn.mobx.js.org/
 项目地址 https://github.com/oyb81076/cocos-mobx-tutorial
 
+## 安装
+```npm install``` or ```yarn install```
+
 ## 使用状态后 Game.ts
 ```typescript
 import ScoreFX from "./ScoreFX";
